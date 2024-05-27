@@ -1,1 +1,1 @@
-Link: https://izaferrari.github.io/agenda15/
+Link visual: https://izaferrari.github.io/agenda15/
