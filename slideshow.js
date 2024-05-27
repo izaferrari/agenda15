@@ -12,7 +12,7 @@ function carousel() {
         index = 1;
     }
     slides[index - 1].style.display = "block";
-    setTimeout(carousel, 10000); 
+    setTimeout(carousel, 9000); 
 }
 
 function plusSlides(n) {
